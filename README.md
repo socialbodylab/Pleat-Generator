@@ -2,7 +2,7 @@
 A Quill sketch that allows for interactive pleated textile pattern generation. Ready for print.
 
 # Building
-Please install leiningen, instructions can be found [here](http://leiningen.org/).
+Please install Leiningen, instructions can be found [here](http://leiningen.org/).
 
 Then simply navigate to the folder that stores this repository and run `lein uberjar`
 
@@ -14,6 +14,6 @@ Usage instructions are available inside the tool.
 
 All code is in the `src` directory, feel free to start up a REPL and work live. Alternatively you can bring up the app with `lein run`.
 
-# Copyright and license
+# Copyright
 
-Copyright © 2014-2015 Social Body Lab
+Copyright &copy; 2014-2015 Social Body Lab
